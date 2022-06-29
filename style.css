@@ -1,0 +1,390 @@
+/* .body {
+    margin: 0;
+    padding: 0;
+
+} */
+
+.navbar-brand {
+    background: url(/apple/pics/apple-logo.svg);
+    display: block;
+    background-position: center;
+    height: 30px;
+    background-size: 16px;
+    width: 44px;
+    background-repeat: no-repeat;
+}
+
+.navbar-search {
+    background: url(/apple/pics/search-icon.svg);
+    display: block;
+    background-position: center;
+    height: 31px;
+    background-size: 16px;
+    width: 44px;
+    background-repeat: no-repeat;
+}
+
+.navbar-search1 {
+    background: url(/apple/pics/bag-icon.svg);
+    display: block;
+    background-position: center;
+    height: 31px;
+    background-size: 16px;
+    width: 44px;
+    background-repeat: no-repeat;
+
+}
+
+.navbar-search2 {
+    background: url(/apple/pics/apple-logo.svg);
+    display: block;
+    background-position: center;
+    height: 31px;
+    background-size: 16px;
+    width: 44px;
+    background-repeat: no-repeat;
+
+}
+
+.navbar-cart {
+    background: url(/apple/pics/bag-icon.svg);
+    display: block;
+    /* margin-right: 280px;
+    margin-top: 10px; */
+
+    height: 29px;
+    background-size: 16px;
+    width: 44px;
+    background-repeat: no-repeat;
+}
+
+.navbar-nav li {
+    margin-left: 55px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    opacity: 0.8;
+    transition: opacity 400ms;
+    align-items: center;
+
+
+
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.navbar-nav li:hover {
+    opacity: 1;
+}
+
+.navbar-brand {
+    /* margin-left:200px; */
+
+
+}
+
+
+.backgroundimg {
+    background: url(/apple/pics/hero_mbp13__f88jcbca0ve6_large.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.backgroundimg h1 {
+    font-family: "Inter", sans-serif;
+    color: white;
+    padding-top: 100px;
+    font-size: 65px;
+    font-weight: bold;
+
+}
+
+.backgroundimg1 {
+    background-image: url(/apple/pics/hero_macbookair__el7scava26mq_large.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+
+.backgroundimg1 h2 {
+    font-family: "Inter", sans-serif;
+    color: rgb(0, 0, 0);
+    /* text-align: center;
+    margin-right: 640px;
+    padding-top: 350px; */
+    font-size: 65px;
+    font-weight: bold;
+
+}
+
+.backgroundimg2 {
+    background-image: url(/apple/pics/hero_bts__bcuslanw39xe_large.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.backgroundimg2 h2 {
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 50px;
+
+}
+
+.backgroundimg2 h4 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    opacity: 80%;
+
+
+
+}
+
+.pic1 {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+
+
+}
+
+.pic2 {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+
+
+}
+
+.pic3 {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+}
+
+.pic4 {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+}
+
+.pic5 {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+
+}
+
+.pic6 {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+
+}
+
+.card-title {
+    color: black;
+    font-size: 50px;
+    opacity: 80%;
+}
+
+.card-text {
+    color: black;
+    font-size: 25px;
+    opacity: 80%;
+}
+
+.card-text2 {
+    font-size: 30px;
+}
+
+.phy {
+    padding-top: 400px;
+
+}
+
+.hip {
+    padding-top: 300px;
+    padding-right: 400px;
+}
+
+.innerimg1 {
+    padding-right: 400px;
+}
+
+.july {
+    padding-right: 400px;
+}
+
+.link {
+    padding-right: 400px;
+}
+
+
+
+.innerimg img {
+    height: 10vh;
+}
+
+
+
+@media only screen and (max-width: 968px) {
+    .backgroundimg {
+        background: url(/apple/pics/hero_mbp13__f88jcbca0ve6_small.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 80vh;
+    }
+
+}
+
+@media only screen and (max-width: 968px) {
+    .backgroundimg1 {
+        background-image: url(/apple2/images/Screenshot\ \(76\).png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 90vh;
+
+
+    }
+
+
+}
+
+@media only screen and (max-width: 968px) {
+    .backgroundimg h1 {
+        font-family: "Inter", sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 30px;
+        font-weight: bold;
+
+    }
+}
+
+@media only screen and (max-width: 968px) {
+    .innerimg img {
+        height: 7vh;
+
+    }
+
+}
+
+.card-te {
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 968px) {
+    .card-te {
+        font-size: 15px;
+
+    }
+
+}
+
+
+
+@media only screen and (max-width: 968px) {
+    .backgroundimg2 h2 {
+        font-size: 40px;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 968px) {
+    .backgroundimg2 h4 {
+        font-size: 20px;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .backgroundimg2 h2 {
+        font-size: 30px;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .backgroundimg2 h4 {
+        font-size: 20px;
+
+
+    }
+
+}
+
+
+@media only screen and (max-width: 500px) {
+    .card-text {
+        font-size: 20px;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .card-title {
+        font-size: 40px;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .hip {
+        padding-right: 0px;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .phy {
+        padding-top: 00px;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 375px) {
+    .phy {
+        padding-top: 340px;
+
+
+    }
+
+}
+
+
+ @media only screen and (max-width: 1024px) {
+    .phy {
+        padding-top: 400px;
+
+
+    } 
+
+ }
