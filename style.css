@@ -127,7 +127,7 @@
 }
 
 .backgroundimg2 {
-    background-image: url(/apple/pics/hero_bts__bcuslanw39xe_large.jpg);
+    background-image: url(hero_bts__bcuslanw39xe_large.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -242,7 +242,7 @@
 
 @media only screen and (max-width: 968px) {
     .backgroundimg {
-        background: url(/apple/pics/hero_mbp13__f88jcbca0ve6_small.jpg);
+        background: url(hero_mbp13__f88jcbca0ve6_small.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -253,7 +253,7 @@
 
 @media only screen and (max-width: 968px) {
     .backgroundimg1 {
-        background-image: url(/apple2/images/Screenshot\ \(76\).png);
+        background-image: url(Screenshot\ \(76\).png);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
