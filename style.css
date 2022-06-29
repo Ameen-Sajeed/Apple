@@ -388,3 +388,16 @@
     } 
 
  }
+@media only screen and (max-width: 1366px) {
+    .navbar-nav {
+        height: 5vh;
+    
+        
+        
+        
+        
+
+
+    } 
+
+ }
