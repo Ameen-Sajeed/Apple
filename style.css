@@ -5,7 +5,7 @@
 } */
 
 .navbar-brand {
-    background: url(/apple/pics/apple-logo.svg);
+    background: url(/apple-logo.svg);
     display: block;
     background-position: center;
     height: 30px;
@@ -88,7 +88,7 @@
 
 
 .backgroundimg {
-    background: url(/apple/pics/hero_mbp13__f88jcbca0ve6_large.jpg);
+    background: url(/hero_mbp13__f88jcbca0ve6_large.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
