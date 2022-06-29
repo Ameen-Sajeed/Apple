@@ -5,7 +5,7 @@
 } */
 
 .navbar-brand {
-    background: url(/apple-logo.svg);
+    background: url(apple-logo.svg);
     display: block;
     background-position: center;
     height: 30px;
@@ -15,7 +15,7 @@
 }
 
 .navbar-search {
-    background: url(/apple/pics/search-icon.svg);
+    background: url(search-icon.svg);
     display: block;
     background-position: center;
     height: 31px;
@@ -25,7 +25,7 @@
 }
 
 .navbar-search1 {
-    background: url(/apple/pics/bag-icon.svg);
+    background: url(bag-icon.svg);
     display: block;
     background-position: center;
     height: 31px;
@@ -36,7 +36,7 @@
 }
 
 .navbar-search2 {
-    background: url(/apple/pics/apple-logo.svg);
+    background: url(apple-logo.svg);
     display: block;
     background-position: center;
     height: 31px;
@@ -47,7 +47,7 @@
 }
 
 .navbar-cart {
-    background: url(/apple/pics/bag-icon.svg);
+    background: url(bag-icon.svg);
     display: block;
     /* margin-right: 280px;
     margin-top: 10px; */
@@ -88,7 +88,7 @@
 
 
 .backgroundimg {
-    background: url(/hero_mbp13__f88jcbca0ve6_large.jpg);
+    background: url(hero_mbp13__f88jcbca0ve6_large.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -106,7 +106,7 @@
 }
 
 .backgroundimg1 {
-    background-image: url(/apple/pics/hero_macbookair__el7scava26mq_large.png);
+    background-image: url(hero_macbookair__el7scava26mq_large.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
